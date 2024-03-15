@@ -1,0 +1,17 @@
+1. npm init
+2. set configs  as below:
+        package name: (bcd_one_howtodeploy)
+        version: (1.0.0)
+        description: first backend app, shows how to deploy backend
+        entry point: (index.js)
+        test command:
+        git repository:
+        keywords: node deploy
+        author: mitesh agrawal
+        license: (ISC)
+3. ls command to see list of files
+4. node file_name_here to run file in server    
+5. we can create a command in package.json file for eg, start cmd , then write "npm run start"
+6. npm install express
+7. after making changes rerun
+8. install dotenv for production
